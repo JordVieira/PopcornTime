@@ -1,0 +1,24 @@
+.root{
+    min-height: 100vh;    
+    display: flex;    
+    align-items: center;
+    justify-content: center;
+    background-color: #F7FBFF;
+}
+
+.background-primary{
+    height: 90vh;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.formulario{
+    height: 60%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
