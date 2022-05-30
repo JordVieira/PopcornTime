@@ -1,5 +1,5 @@
 import { TextField, Typography, Button, Link } from "@mui/material";
-import { ReactComponent as Logo } from "./assets/logo.svg";
+import { ReactComponent as Logo } from "../../assets/logo.svg";
 import "./estilo.css";
 
 export default function Login() {

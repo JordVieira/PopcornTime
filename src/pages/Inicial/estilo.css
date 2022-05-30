@@ -1,8 +1,12 @@
 .root{
     min-height: 100vh;    
     display: flex;    
-    align-items: center;
-    justify-content: center;
+    align-items: flex-start;    
     background-color: #F7FBFF;
 }
 
+.searchContainer{
+    width: 50%;
+    margin-bottom: 2rem;
+    display: flex;
+}
