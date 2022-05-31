@@ -5,12 +5,11 @@ import {
   TextField,
   Paper,
   Divider,
-  Typography,  
+  Typography,
 } from "@mui/material";
-import { ReactComponent as Logo } from "../../assets/logo.svg";
 import SearchIcon from "@mui/icons-material/Search";
 import CardSerie from "../../components/CardSerie";
-import Header from "../../components/Header"
+import Header from "../../components/Header";
 import "./estilo.css";
 
 const series = [
@@ -53,12 +52,10 @@ const series = [
   },
 ];
 
-const pages = ["Products", "Pricing", "Blog"];
-
-export default function Inicial() {
+export default function Profile() {
   return (
-    <div className="root">      
-      <Header/>      
+    <div className="root">
+      <Header />
       <div
         style={{
           display: "flex",

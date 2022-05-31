@@ -1,0 +1,16 @@
+.root{
+    min-height: 100vh;    
+    display: flex;    
+    align-items: flex-start;    
+    background-color: #F7FBFF;
+}
+
+.userDetails{
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.editProfile{
+    margin-left: 2rem;
+}

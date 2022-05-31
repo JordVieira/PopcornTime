@@ -31,6 +31,7 @@ export default function Login() {
           <Button
             fullWidth
             style={{ backgroundColor: "#363636", color: "#FEC601" }}
+            href="\"
           >
             Entrar
           </Button>
