@@ -63,7 +63,7 @@ export default function Profile() {
           width: "100%",
           minHeight: "80vh",
           marginTop: "5rem",
-          padding: "0 50px",
+          padding: "0 5%",
         }}
       >
         <div className="searchContainer">

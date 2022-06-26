@@ -17,6 +17,7 @@ export default function CardReview({ title, image, review, rating }) {
           padding: "5px",
           height: "auto",
           maxWidth: "6rem",
+          maxHeight: "100%",
           objectFit: "cover",
         }}
         image={image}
